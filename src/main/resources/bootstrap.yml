@@ -1,7 +1,7 @@
 ## Configuração Default da Aplicação ##
 spring:
   application:
-    name: discovery
+    name: cr7Discovery
   ## Spring Config Server Cloud
   cloud:
     config:
